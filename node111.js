@@ -1,14 +1,23 @@
 <html>
     <body>
         <script>
-            //3 question
-let number = 7; 
-if (number % 2 === 0) {
-  console.log("is even.");
-} 
-else {
-  console.log(" is odd." );
+            //question 4
+function calculate(operation, num1, num2) {
+  switch (operation) {
+    case 'addition':
+      return num1 + num2;
+    case 'subtraction':
+      return num1 - num2;
+    case 'multiplication':
+      return num1 * num2;
+    default:
+      return 'Invalid operation';
+  }
 }
+
+
+
+
 
 
 
