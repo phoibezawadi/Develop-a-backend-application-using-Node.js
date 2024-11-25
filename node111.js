@@ -1,14 +1,15 @@
 <html>
     <body>
         <script>
-            //question two
-        const book={
-            title:"node.js book",
-            author:"marker",
-            yearpublisher:2023,
-          leverbook:"LEVEL 4 IN SOFTWARE DEVELOPMENT"
-        }; 
-        console.log("book object:",book);
+            //3 question
+let number = 7; 
+if (number % 2 === 0) {
+  console.log("is even.");
+} 
+else {
+  console.log(" is odd." );
+}
+
 
 
         </script>
