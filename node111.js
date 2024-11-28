@@ -1,5 +1,6 @@
 
-        <script>
+
+
             //question 5
 const testArrays = [
     [1, 2, 3, 4, 5],        // Positive integers
@@ -17,5 +18,5 @@ testArrays.forEach((array, index) = {
 
 
 
-        </script>
+        
    
